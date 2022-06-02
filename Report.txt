@@ -1,0 +1,21 @@
+ID number :	
+Name :
+Tester :	  
+Submit Date :	
+Summary	 :
+URL :
+Platform :	
+Operating System :	
+Browser	 :
+Severity :	
+Priority :	
+Description :
+Steps to reproduce :
+1.
+2.
+3.
+Expected result :
+Actual result:
+
+Notes 
+Screenshots
